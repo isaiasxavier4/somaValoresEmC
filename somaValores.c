@@ -3,8 +3,8 @@
 
 int main(int argc, char const *argv[])
 {
-    float soma(float *v1, float *v2);
-    float maiorMenor(float *v1, float *v2);
+    float soma(float *v1, float *v2); // SETANDO A FUNÇAO SOMA...
+    float maiorMenor(float *v1, float *v2); // SETANDO A FUNÇAO MAIORMENOR...
 
     float valor1 = 0, valor2 = 0;
 
